@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T19:42:15.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Gf7BCPsL9Y82BeBWIyfU" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T16:11:24.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="B2LEB2PqwtbLqT5Zurou" version="21.6.8" type="github">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
-    <mxGraphModel dx="752" dy="559" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3133" dy="2330" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="architecture fondamentale" id="tpNcKr8VGzqpfpvpGNBD-19">
@@ -61,30 +61,30 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;: {&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-47&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-15">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-19">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" parent="tpNcKr8VGzqpfpvpGNBD-19" vertex="1">
             <mxGeometry x="490" y="80" width="252.57" height="260" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="note système embarqué" id="g-pGQ9_j9zG2QTOYBkZh-47">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <UserObject label="&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;système embarqué&lt;/font&gt;&lt;/h1&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;: {&quot;cells&quot;:[&quot;1&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=40;verticalAlign=top;spacing=0;spacingTop=0;" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-47">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=40;verticalAlign=top;spacing=0;spacingTop=0;" parent="g-pGQ9_j9zG2QTOYBkZh-47" vertex="1">
             <mxGeometry x="430" y="40" width="2433.35" height="1427.73" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 75px;&quot;&gt;&lt;font style=&quot;font-size: 75px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Le drone doit être capable de se reperer dans son environement, et de s&#39;y déplacer en suivant&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;la tajectoire qu&#39;il adaptera selon les exigeances de l&#39;utilisateur et de l&#39;environement. Il aura un niveau 3 d&#39;autonomie. Il doit savoir quoi faire dans toutes les situations, par exemple lors d&#39;une perte de communication, ou perte du signal gps en plein vol (ou les 2). Cependant, il doit détecter s&#39;il se trouve dans l&#39;incapacité de gerer son déplacement en sécurité, et inviter l&#39;utilisateur à passer en pilotage manuel le cas échéant.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="L9uxI2-5SPp2yq6qhwyj-3">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-47">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="g-pGQ9_j9zG2QTOYBkZh-47" vertex="1">
             <mxGeometry x="510" y="400" width="2313" height="962" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;: {&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-47&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-14">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-47">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="g-pGQ9_j9zG2QTOYBkZh-47" vertex="1">
             <mxGeometry x="540" y="100" width="198" height="198" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="systeme embarqué" id="1">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <UserObject label="&lt;font style=&quot;font-size: 100px;&quot;&gt;système embarqué&lt;/font&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;: {&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;,&quot;L9uxI2-5SPp2yq6qhwyj-30&quot;,&quot;1&quot;,&quot;g-pGQ9_j9zG2QTOYBkZh-57&quot;,&quot;tpNcKr8VGzqpfpvpGNBD-56&quot;,&quot;g-pGQ9_j9zG2QTOYBkZh-57&quot;,&quot;g-pGQ9_j9zG2QTOYBkZh-62&quot;,&quot;tpNcKr8VGzqpfpvpGNBD-72&quot;]}}]}" id="tpNcKr8VGzqpfpvpGNBD-30">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=100;align=center;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=solid;fillColor=default;gradientColor=none;" parent="1" vertex="1">
@@ -141,19 +141,19 @@
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;: {&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-57&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-16">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="1050" y="270" width="116.57" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="processeur" id="tpNcKr8VGzqpfpvpGNBD-56">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <UserObject label="&lt;h2 style=&quot;line-height: 108%; font-size: 50px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;processeur&lt;/font&gt;&lt;/h2&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;: {&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-56&quot;,&quot;tpNcKr8VGzqpfpvpGNBD-72&quot;]}}]}" id="tpNcKr8VGzqpfpvpGNBD-57">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillStyle=auto;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;spacing=-16;strokeWidth=5;fontSize=50;spacingTop=-6;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
             <mxGeometry x="1000" y="230" width="1270" height="680" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;h3 style=&quot;line-height: 100%; font-size: 50px;&quot;&gt;estimation d&#39;état&lt;/h3&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;: {&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-72&quot;]}}]}" id="tpNcKr8VGzqpfpvpGNBD-65">
+        <UserObject label="&lt;h3 style=&quot;line-height: 100%; font-size: 50px;&quot;&gt;estimation d&#39;état&lt;/h3&gt;" id="tpNcKr8VGzqpfpvpGNBD-65">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=50;strokeWidth=3;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
             <mxGeometry x="1040" y="330" width="720" height="290" as="geometry" />
           </mxCell>
@@ -164,164 +164,69 @@
         <mxCell id="tpNcKr8VGzqpfpvpGNBD-69" value="&lt;h3 style=&quot;line-height: 100%; font-size: 50px;&quot;&gt;asservissement&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;spacing=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=50;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
           <mxGeometry x="1810" y="330" width="410" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="L9uxI2-5SPp2yq6qhwyj-22" value="&lt;h3 style=&quot;line-height: 100%; font-size: 50px;&quot;&gt;télémétrie&lt;br&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;spacing=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=50;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-56">
+        <mxCell id="L9uxI2-5SPp2yq6qhwyj-22" value="&lt;h3 style=&quot;line-height: 100%; font-size: 50px;&quot;&gt;télémétrie&lt;br&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;spacing=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=50;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
           <mxGeometry x="1810" y="740" width="410" height="130" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-62&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-23">
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;KBM3tCrc1kif0PRyNVK5-22&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-23">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
+            <mxGeometry x="550" y="180" width="77.72" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-62&quot;]}}]}" id="KBM3tCrc1kif0PRyNVK5-21">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-56">
-            <mxGeometry x="1070" y="350" width="58.29" height="60" as="geometry" />
+            <mxGeometry x="1060" y="350" width="58.29" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Note processeur" id="g-pGQ9_j9zG2QTOYBkZh-57">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="&lt;h2 style=&quot;font-size: 100px; line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;processeur&lt;/font&gt;&lt;/h2&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;: {&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-56&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-17">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;fontSize=100;verticalAlign=top;spacing=0;spacingTop=-24;" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-57">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;fontSize=100;verticalAlign=top;spacing=0;spacingTop=-24;" parent="g-pGQ9_j9zG2QTOYBkZh-57" vertex="1">
             <mxGeometry x="1000" y="230" width="1270" height="680" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;L&#39;intelligence du système.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Le processeur a trois missions majeures :&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;- estimer son état (orientation et position)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;- choisir une trajectoire à suivre&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;- asservir son déplacement (suivre au mieux cette trajactoire)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 40px;&quot;&gt;Sa mission mineure est de récolter et de préparer l&#39;envoit des données de surveillance et de télémétrie.&lt;/div&gt;" placeholders="1" name="Variable" id="L9uxI2-5SPp2yq6qhwyj-18">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=9;" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-57">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=9;" parent="g-pGQ9_j9zG2QTOYBkZh-57" vertex="1">
             <mxGeometry x="1060" y="430" width="1200" height="450" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;: {&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-57&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-21">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-57">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="g-pGQ9_j9zG2QTOYBkZh-57" vertex="1">
             <mxGeometry x="1050" y="270" width="110" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Note éstimation d&#39;état" id="g-pGQ9_j9zG2QTOYBkZh-62">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <UserObject label="&lt;h3 style=&quot;line-height: 100%; font-size: 30px;&quot;&gt;estimation d&#39;état&lt;/h3&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-72&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-25">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;strokeWidth=3;verticalAlign=top;spacingTop=-21;" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-62">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;strokeWidth=3;verticalAlign=top;spacingTop=-21;" parent="g-pGQ9_j9zG2QTOYBkZh-62" vertex="1">
             <mxGeometry x="1040" y="330" width="720" height="290" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;Afin d&#39;obtenir une bonne estimation de l&#39;orientation et de la position, les mesures brutes des capteurs doivent être corrigées de leur biais ou de toute autre perturbation compensable. Ensuite, ces mesures corrigées sont utilisées pour donner plus d&#39;information sur l&#39;orientation ou la position. Pour finir, ces informations sont combinées par un filtre de fusion.&lt;/div&gt;" placeholders="1" name="Variable" id="L9uxI2-5SPp2yq6qhwyj-26">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-62">
-            <mxGeometry x="1050" y="430" width="700" height="140" as="geometry" />
+        <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 17px;&quot;&gt;Pour fusionner les données des capteurs, un filtre de kalman étendu peut être utilisé. Il a de nombreux avantages : il peut effectuer une estimation en se basant sur un modèle physique (même en l&#39;absence de mesure), il sait utiliser au mieux les mesures incomplètes ou indirecte de l&#39;état qu&#39;on cherche à estimer. De plus, il estime la matrice de covariance de l&#39;erreur qui nous informe sur la confiance qu&#39;on peut avoir en l&#39;estimation de l&#39;état. En plus de fournir une estimation de la position et de l&#39;orientation, il devra estimer l&#39;altitude et la vitesse verticale sol, le vecteur vitesse du vent, le vecteur magnétique, le vecteur de gravité, la pression atmospherique au sol et les biais et gains des capteurs.&lt;/div&gt;" placeholders="1" name="Variable" id="L9uxI2-5SPp2yq6qhwyj-26">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" parent="g-pGQ9_j9zG2QTOYBkZh-62" vertex="1">
+            <mxGeometry x="1050" y="389" width="700" height="243" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;g-pGQ9_j9zG2QTOYBkZh-62&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-27">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="g-pGQ9_j9zG2QTOYBkZh-62">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="g-pGQ9_j9zG2QTOYBkZh-62" vertex="1">
             <mxGeometry x="1070" y="350" width="50" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="estimation d&#39;état" id="tpNcKr8VGzqpfpvpGNBD-72">
-          <mxCell style="" parent="0" />
-        </object>
-        <UserObject label="&lt;h4 style=&quot;line-height: 100%; font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;estimation d&#39;état&lt;/font&gt;&lt;/h4&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-41&quot;,&quot;L9uxI2-5SPp2yq6qhwyj-47&quot;,&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;,&quot;L9uxI2-5SPp2yq6qhwyj-30&quot;,&quot;tpNcKr8VGzqpfpvpGNBD-72&quot;]}}]}" id="tpNcKr8VGzqpfpvpGNBD-73">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontStyle=2;verticalAlign=bottom;spacing=-7;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;" parent="tpNcKr8VGzqpfpvpGNBD-72" vertex="1">
-            <mxGeometry x="1040" y="330" width="720" height="290" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;p style=&quot;line-height: 100%; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;prétraitement&lt;/font&gt;&lt;/p&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;]}}]}" id="tpNcKr8VGzqpfpvpGNBD-74">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;spacingTop=-2;fontSize=25;" parent="tpNcKr8VGzqpfpvpGNBD-72" vertex="1">
-            <mxGeometry x="1180" y="350" width="108.33" height="250" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="tpNcKr8VGzqpfpvpGNBD-75" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;estimation d&#39;attitude (quaternion)&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=25;" parent="tpNcKr8VGzqpfpvpGNBD-72" vertex="1">
-          <mxGeometry x="1310" y="350" width="366.67" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="tpNcKr8VGzqpfpvpGNBD-76" value="&lt;p style=&quot;line-height: 100%; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;estimation de position&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=25;" parent="tpNcKr8VGzqpfpvpGNBD-72" vertex="1">
-          <mxGeometry x="1310" y="480" width="366.67" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-5" value="&lt;p style=&quot;line-height: 100%; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;correction post-calibration&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;spacingTop=-2;fontSize=25;align=center;" parent="tpNcKr8VGzqpfpvpGNBD-72" vertex="1">
-          <mxGeometry x="1060" y="350" width="108.33" height="250" as="geometry" />
-        </mxCell>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-30&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-31">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;rotation=-90;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-72">
-            <mxGeometry x="1190" y="571" width="22.34" height="23" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-41&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-40">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;rotation=0;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-72">
-            <mxGeometry x="1324" y="363" width="22.34" height="23" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-47&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-46">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;rotation=0;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-72">
-            <mxGeometry x="1323" y="489" width="22.34" height="23" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="Note prétraitement" id="L9uxI2-5SPp2yq6qhwyj-30">
-          <mxCell style="" parent="0" visible="0" />
-        </object>
-        <UserObject label="&lt;p style=&quot;line-height: 100%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;prétraitement&lt;/font&gt;&lt;/p&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-32">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;spacingTop=-2;fontSize=15;verticalAlign=top;" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-30">
-            <mxGeometry x="1180" y="350" width="108.33" height="250" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Utiliser les mesures corrigées pour extraire les informations utiles au filtre d&#39;estimation d&#39;attitude et de positionnement. Par exemple : calculer le quaternion d&#39;orientation du système pour lequel le vecteur acceleration est égal à celui de gravité. En d&#39;autre termes : caluler l&#39;orientation en se basant sur l&#39;accéléromètre, et en supposant que le système ne subit pas d&#39;accélération supplémentaire à la gravitée.&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-38">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-30">
-            <mxGeometry x="1187" y="384" width="95" height="202" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-30&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-37">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-30">
-            <mxGeometry x="1190" y="572" width="21" height="21" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="Note estimation d&#39;attitude (quaternion)" id="L9uxI2-5SPp2yq6qhwyj-41">
-          <mxCell style="" parent="0" />
-        </object>
-        <mxCell id="L9uxI2-5SPp2yq6qhwyj-42" value="&lt;p style=&quot;line-height: 100%; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;estimation d&#39;attitude (quaternion)&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;verticalAlign=top;spacingTop=-7;" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-41">
-          <mxGeometry x="1310" y="350" width="366.67" height="130" as="geometry" />
-        </mxCell>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-41&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-43">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-41">
-            <mxGeometry x="1326" y="361" width="21" height="21" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;L&#39;estimation peut se faire à l&#39;aide d&#39;un filtre de kalman étendu basé sur les &lt;a href=&quot;https://fr.wikipedia.org/wiki/Quaternions_et_rotation_dans_l%27espace#:~:text=Les%20quaternions%20unitaires%20repr%C3%A9sentent%20l,origine)%20de%20fa%C3%A7on%20relativement%20simple.&quot;&gt;quaternions&lt;/a&gt;. L&#39;autre solution plus simple à mettre en oeuvre serait un filtre complémentaire avec interpolation sphérique linéaire (toujours avec quaternion). Cependant, ce type de filtre ne donne pas l&#39;erreur de l&#39;estimation.&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-45">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-41">
-            <mxGeometry x="1325" y="400" width="336" height="61" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="prétraitement" id="tpNcKr8VGzqpfpvpGNBD-77">
-          <mxCell style="" parent="0" />
-        </object>
-        <UserObject label="&lt;p style=&quot;line-height: 100%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;prétraitement&lt;/font&gt;&lt;/p&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;]}}]}" id="tpNcKr8VGzqpfpvpGNBD-79">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-            <mxGeometry x="1180" y="350" width="108" height="250" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-38" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;orientation&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;magnetomètre&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-2;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="389" width="90" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-39" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;orientation + acceleration&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;accéleromètre&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-2;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="446" width="90" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-40" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;quaternion dérivé&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;gyroscope&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-2;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="418" width="90" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-41" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;position et vitesse&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;GPS&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-1;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="531" width="90" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-42" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;altitude et vitesse air&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;tube pitot&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-2;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="559" width="90" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-43" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;orientation + position&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;odométrie visuelle&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-1;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="475" width="90" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="g-pGQ9_j9zG2QTOYBkZh-44" value="&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;altitude&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 7px;&quot;&gt;vision stéréo&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;spacing=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;verticalAlign=middle;spacingTop=-2;" parent="tpNcKr8VGzqpfpvpGNBD-77" vertex="1">
-          <mxGeometry x="1190" y="503" width="90" height="28" as="geometry" />
-        </mxCell>
-        <object label="Note estimation de position" id="L9uxI2-5SPp2yq6qhwyj-47">
+        <object label="Note capteurs" id="KBM3tCrc1kif0PRyNVK5-22">
           <mxCell parent="0" />
         </object>
-        <mxCell id="L9uxI2-5SPp2yq6qhwyj-48" value="&lt;p style=&quot;line-height: 100%; font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;estimation de position&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;spacing=-5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=17;verticalAlign=top;spacingTop=-7;" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-47">
-          <mxGeometry x="1310" y="480" width="366.67" height="120" as="geometry" />
+        <mxCell id="KBM3tCrc1kif0PRyNVK5-23" value="&lt;h2 style=&quot;font-size: 70px;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;capteurs&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=70;strokeWidth=5;verticalAlign=top;spacingTop=31;" vertex="1" parent="KBM3tCrc1kif0PRyNVK5-22">
+          <mxGeometry x="521" y="151" width="352.8" height="840" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;L9uxI2-5SPp2yq6qhwyj-47&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-49">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-47">
-            <mxGeometry x="1325" y="487" width="21" height="21" as="geometry" />
+        <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;KBM3tCrc1kif0PRyNVK5-22&quot;]}}]}" id="KBM3tCrc1kif0PRyNVK5-24">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="KBM3tCrc1kif0PRyNVK5-22">
+            <mxGeometry x="560" y="180" width="60" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 8px;&quot;&gt;Ici, un filtre de kalman classique serait assez simple à mettre en oeuvre. Il a beaucoup d&#39;avantage qui peuvent justifier son utilisation. Il permet par exemple de prédire l&#39;état même sans mesure. Il définit aussi la matrice de covariance de l&#39;erreur, qui indique à quel point on peut faire confiance à l&#39;estimation de la position.&lt;/div&gt;" placeholders="1" name="Variable" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;tpNcKr8VGzqpfpvpGNBD-77&quot;]}}]}" id="L9uxI2-5SPp2yq6qhwyj-50">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=8;" vertex="1" parent="L9uxI2-5SPp2yq6qhwyj-47">
-            <mxGeometry x="1324" y="524" width="336" height="61" as="geometry" />
+        <UserObject label="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Le choix des capteurs embarqués est important, ils vont tous être utile à l&#39;estimation de l&#39;état du système. La fusion d&#39;un IMU, GPS et Odométrie visuelle est une bonne combinaison pour assurer une estimation fiable.&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="KBM3tCrc1kif0PRyNVK5-25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" vertex="1" parent="KBM3tCrc1kif0PRyNVK5-22">
+            <mxGeometry x="550" y="330" width="290" height="590" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
