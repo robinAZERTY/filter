@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T11:54:59.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2r4aDjVpO6XDTbMBpK4E" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T22:23:56.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jPP3vc_iDVwiyQpfbZA8" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
-    <mxGraphModel dx="3133" dy="2330" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3980" dy="2207" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="architecture fondamentale" id="tpNcKr8VGzqpfpvpGNBD-19">
@@ -66,12 +66,12 @@
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-44&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-47">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-19">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" parent="tpNcKr8VGzqpfpvpGNBD-19" vertex="1">
             <mxGeometry x="1140" y="1920" width="179.71" height="170" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-49&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-52">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-19">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" parent="tpNcKr8VGzqpfpvpGNBD-19" vertex="1">
             <mxGeometry x="550" y="3230" width="293.14" height="290" as="geometry" />
           </mxCell>
         </UserObject>
@@ -161,12 +161,12 @@
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-11&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-15">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;gradientDirection=north;fillColor=#7fb4fa;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;gradientDirection=north;fillColor=#7fb4fa;strokeColor=#FFFFFF;" parent="1" vertex="1">
             <mxGeometry x="2420" y="170" width="77.72" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-36&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-18">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor=#8BbEff;fillColor2=#135Ec8;strokeColor=#ffffff;sketch=0;" parent="1" vertex="1">
             <mxGeometry x="1110" y="1070" width="116.57" height="120" as="geometry" />
           </mxCell>
         </UserObject>
@@ -203,12 +203,12 @@
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-7&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-1">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-56">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
             <mxGeometry x="1830" y="750" width="38.29" height="39.41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-3&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-2">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;" vertex="1" parent="tpNcKr8VGzqpfpvpGNBD-56">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iInfoIcon;fillColor2=#135Ec8;sketch=0;fillColor=none;gradientDirection=north;" parent="tpNcKr8VGzqpfpvpGNBD-56" vertex="1">
             <mxGeometry x="1060" y="670" width="58.29" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -283,97 +283,179 @@
         <object label="Note plannification de trajectoire" id="UV-X_453LUq0awrS1Xit-3">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
-        <mxCell id="UV-X_453LUq0awrS1Xit-4" value="&lt;h3 style=&quot;line-height: 100%; font-size: 34px;&quot;&gt;planification de trajectoire&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=34;verticalAlign=top;spacingTop=-19;" vertex="1" parent="UV-X_453LUq0awrS1Xit-3">
+        <mxCell id="UV-X_453LUq0awrS1Xit-4" value="&lt;h3 style=&quot;line-height: 100%; font-size: 34px;&quot;&gt;planification de trajectoire&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=34;verticalAlign=top;spacingTop=-19;" parent="UV-X_453LUq0awrS1Xit-3" vertex="1">
           <mxGeometry x="1040" y="650" width="720" height="220" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-3&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-5">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="UV-X_453LUq0awrS1Xit-3">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="UV-X_453LUq0awrS1Xit-3" vertex="1">
             <mxGeometry x="1070" y="670" width="50" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Avant de pouvoir calculer la trajectoire, il faut obtenir une liste de Waypoints, qui est une liste de position. &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cette liste peut être reçue depuis la station au sol, mais le processeur doit toujours garder un contrôle dessus. &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;En effet, il doit être capable de générer les bons Waypoints en cas de perte de connexion, ou de la réception d&#39;une liste invalide. &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;En se basant sur cette liste, l&#39;expression de la position et la vitesse en fonction du temps doit être déterminée : c&#39;est la trajectoire prévue. &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Elle peut décrire un mouvement rectiligne uniforme entre les Waypoints, ou de manière fluide avec les &lt;a href=&quot;https://fr.wikipedia.org/wiki/Courbe_de_B%C3%A9zier&quot;&gt;courbes de Béziers&lt;/a&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="UV-X_453LUq0awrS1Xit-6">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" vertex="1" parent="UV-X_453LUq0awrS1Xit-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" parent="UV-X_453LUq0awrS1Xit-3" vertex="1">
             <mxGeometry x="1050" y="720" width="691.36" height="150" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Note télémétrie" id="UV-X_453LUq0awrS1Xit-7">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
-        <mxCell id="UV-X_453LUq0awrS1Xit-8" value="&lt;h3 style=&quot;line-height: 90%; font-size: 32px;&quot;&gt;télémétrie&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;spacing=-1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=32;verticalAlign=top;spacingTop=-24;" vertex="1" parent="UV-X_453LUq0awrS1Xit-7">
+        <mxCell id="UV-X_453LUq0awrS1Xit-8" value="&lt;h3 style=&quot;line-height: 90%; font-size: 32px;&quot;&gt;télémétrie&lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fontStyle=2;strokeWidth=3;spacing=-1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=32;verticalAlign=top;spacingTop=-24;" parent="UV-X_453LUq0awrS1Xit-7" vertex="1">
           <mxGeometry x="1810" y="740" width="410" height="130" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-7&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-9">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="UV-X_453LUq0awrS1Xit-7">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="UV-X_453LUq0awrS1Xit-7" vertex="1">
             <mxGeometry x="1830" y="750" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 17px;&quot;&gt;La télémétrie à transmettre contient les données capteur (avec flux vidéo). La télémétrie à recevoir sont les instructions.&lt;/div&gt;" placeholders="1" name="Variable" id="UV-X_453LUq0awrS1Xit-10">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" vertex="1" parent="UV-X_453LUq0awrS1Xit-7">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" parent="UV-X_453LUq0awrS1Xit-7" vertex="1">
             <mxGeometry x="1820" y="780" width="390" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Note actionneurs" id="UV-X_453LUq0awrS1Xit-11">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
-        <mxCell id="UV-X_453LUq0awrS1Xit-12" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;actionneurs&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;verticalAlign=top;spacing=-2;fontSize=39;align=right;spacingRight=60;" vertex="1" parent="UV-X_453LUq0awrS1Xit-11">
+        <mxCell id="UV-X_453LUq0awrS1Xit-12" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;actionneurs&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;verticalAlign=top;spacing=-2;fontSize=39;align=right;spacingRight=60;" parent="UV-X_453LUq0awrS1Xit-11" vertex="1">
           <mxGeometry x="2390" y="140" width="431.2" height="860" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-11&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-14">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="UV-X_453LUq0awrS1Xit-11">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="UV-X_453LUq0awrS1Xit-11" vertex="1">
             <mxGeometry x="2430" y="170" width="60" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;L&#39;empennage (ou &lt;a href=&quot;https://en.wikipedia.org/wiki/Flight_control_surfaces&quot;&gt;surfaces de contrôle&lt;/a&gt;) et le moteur sont les seuls dispositifs capables d&#39;influencer la trajectoire, et ce, indirectement. En effet, ils ne peuvent que modifier respectivement l&#39;orientation et la vitesse de l&#39;appareil.&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="UV-X_453LUq0awrS1Xit-17">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=32;" vertex="1" parent="UV-X_453LUq0awrS1Xit-11">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=32;" parent="UV-X_453LUq0awrS1Xit-11" vertex="1">
             <mxGeometry x="2410" y="270" width="400" height="690" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Note transmetteur" id="UV-X_453LUq0awrS1Xit-36">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
-        <mxCell id="UV-X_453LUq0awrS1Xit-37" value="&lt;h2 style=&quot;font-size: 83px;&quot;&gt;&lt;font style=&quot;font-size: 83px;&quot;&gt;transmetteur(s)&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;fontSize=83;verticalAlign=top;spacingTop=-20;" vertex="1" parent="UV-X_453LUq0awrS1Xit-36">
+        <mxCell id="UV-X_453LUq0awrS1Xit-37" value="&lt;h2 style=&quot;font-size: 83px;&quot;&gt;&lt;font style=&quot;font-size: 83px;&quot;&gt;transmetteur(s)&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=5;fontSize=83;verticalAlign=top;spacingTop=-20;" parent="UV-X_453LUq0awrS1Xit-36" vertex="1">
           <mxGeometry x="1070" y="1040" width="1140" height="380" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-36&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-39">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="UV-X_453LUq0awrS1Xit-36">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="UV-X_453LUq0awrS1Xit-36" vertex="1">
             <mxGeometry x="1120" y="1070" width="110" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 35px;&quot;&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;Le ou les transmetteurs doivent assurer une communication bidirectionnelle pour des données télémétriques, et unidirectionnelle (envoi) pour la transmission vidéo. La portée nécessaire est d&#39;au moins 1 km&lt;/span&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="UV-X_453LUq0awrS1Xit-40">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=35;" vertex="1" parent="UV-X_453LUq0awrS1Xit-36">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=35;" parent="UV-X_453LUq0awrS1Xit-36" vertex="1">
             <mxGeometry x="1100" y="1220" width="1090" height="180" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="Note station au sol" id="UV-X_453LUq0awrS1Xit-44">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
-        <mxCell id="UV-X_453LUq0awrS1Xit-45" value="&lt;h1 style=&quot;line-height: 100%; font-size: 100px;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;station au sol&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=100;spacingTop=-10;spacing=0;verticalAlign=top;" vertex="1" parent="UV-X_453LUq0awrS1Xit-44">
+        <mxCell id="UV-X_453LUq0awrS1Xit-45" value="&lt;h1 style=&quot;line-height: 100%; font-size: 100px;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;station au sol&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=100;spacingTop=-10;spacing=0;verticalAlign=top;" parent="UV-X_453LUq0awrS1Xit-44" vertex="1">
           <mxGeometry x="1080" y="1870" width="1143.94" height="933" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-44&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-46">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="UV-X_453LUq0awrS1Xit-44">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="UV-X_453LUq0awrS1Xit-44" vertex="1">
             <mxGeometry x="1140" y="1920" width="170" height="170" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 50px;&quot;&gt;La principale utilité de la station au sol est d&#39;assurer la communication avec le système embarqué afin de lui donner des instructions à suivre. Cependant, elle peut aussi être utile pour affiner l&#39;estimation d&#39;état. Par exemple en installant un capteur de pression atmosphérique et en l&#39;envoyant, le drone serait capable d&#39;améliorer son estimation d&#39;altitude en comparant la pression au sol avec celle en altitude.&lt;/div&gt;" placeholders="1" name="Variable" id="UV-X_453LUq0awrS1Xit-48">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=35;" vertex="1" parent="UV-X_453LUq0awrS1Xit-44">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=35;" parent="UV-X_453LUq0awrS1Xit-44" vertex="1">
             <mxGeometry x="1130" y="2130" width="1050" height="620" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="UV-X_453LUq0awrS1Xit-49" value="Note poste de contrôle" style="locked=1;" parent="0" visible="0" />
-        <mxCell id="UV-X_453LUq0awrS1Xit-51" value="&lt;h1 style=&quot;line-height: 100%; font-size: 150px;&quot;&gt;&lt;font style=&quot;font-size: 150px;&quot;&gt;Poste de contrôle&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=150;verticalAlign=top;" vertex="1" parent="UV-X_453LUq0awrS1Xit-49">
+        <mxCell id="UV-X_453LUq0awrS1Xit-51" value="&lt;h1 style=&quot;line-height: 100%; font-size: 150px;&quot;&gt;&lt;font style=&quot;font-size: 150px;&quot;&gt;Poste de contrôle&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=10;labelBackgroundColor=none;fontColor=default;fontSize=150;verticalAlign=top;" parent="UV-X_453LUq0awrS1Xit-49" vertex="1">
           <mxGeometry x="460" y="3140" width="2386" height="1493" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;UV-X_453LUq0awrS1Xit-49&quot;]}}]}" id="UV-X_453LUq0awrS1Xit-58">
-          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" vertex="1" parent="UV-X_453LUq0awrS1Xit-49">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrow-outline-8/32/left_3-128.png" parent="UV-X_453LUq0awrS1Xit-49" vertex="1">
             <mxGeometry x="560" y="3210" width="290" height="290" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;text-align: justify; font-size: 92px;&quot;&gt;Le poste de contrôle est l&#39;ordinateur connecté à la station au sol. Il fait tourner l&#39;application permettant d&#39;interragir avec le système embarqué. De plus, il affiche la télémétrie et peut faire du traitement de données sur des images reçues. Si possible, il pourra faire tourner un algorithme &lt;a href=&quot;https://fr.mathworks.com/help/vision/ug/stereo-visual-simultaneous-localization-mapping.html&quot; style=&quot;font-size: 92px;&quot;&gt;SLAM&lt;/a&gt; en temps réél et envoyer la localisation estimée à la station au sol.&amp;nbsp;&lt;/div&gt;" placeholders="1" name="Variable" id="UV-X_453LUq0awrS1Xit-60">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=92;" vertex="1" parent="UV-X_453LUq0awrS1Xit-49">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;overflow=hidden;fontSize=92;" parent="UV-X_453LUq0awrS1Xit-49" vertex="1">
             <mxGeometry x="580" y="3660" width="2180" height="870" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
+    <mxGraphModel dx="795" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=85;exitPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-16" target="AuRGQpmqzgW3fRgOeS17-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=85;exitPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-16" target="AuRGQpmqzgW3fRgOeS17-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-16" value="Surveillance de terrain agricole&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- carractérisation du terrain&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- présence de nuisible&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- suivi des conditions des plantes&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=25;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="314" y="125.99" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="319" y="19.999999999999986" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-1" value="Pourquoi concevoir ce robot ? Quelles fonctions primaires ?" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=27;spacing=2;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-20">
+          <mxGeometry width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-20">
+          <mxGeometry x="164.75" y="10.97999999999999" width="25.25" height="48.03" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="199" y="275.99" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-22" value="Quelles informations l&#39;utilisateur a besoin pour carracteriser le terrain ?&lt;br&gt;Sous quelle forme ?" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=27;spacing=2;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-21">
+          <mxGeometry width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AuRGQpmqzgW3fRgOeS17-21" source="AuRGQpmqzgW3fRgOeS17-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-21">
+          <mxGeometry x="164.75" y="10.97999999999999" width="25.25" height="48.03" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="429" y="275.99" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-26" value="comment synthétiser un suivi temporel de ces informations ?" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=27;spacing=2;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-25">
+          <mxGeometry x="10" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-27" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-25">
+          <mxGeometry x="174.75" y="10.97999999999999" width="25.25" height="48.03" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-32" target="AuRGQpmqzgW3fRgOeS17-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=102.94;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-32" target="AuRGQpmqzgW3fRgOeS17-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-32" value="Carte topographique à plusieurs couches&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- visuel naturel (vue aérienne)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- type de surface (plante, terre,&amp;nbsp;asphalte...)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- differents types de plantes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- differentes maladie de plante&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux d&#39;humidité ?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux de nitrate ?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux d&#39;azote ?&lt;/span&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="224" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=62.94;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-33" target="AuRGQpmqzgW3fRgOeS17-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-33" value="Carte topologique&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- carracterriser les dépendances des cartes topographiques&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- ajouter des entitées ponctuelles (nuisible, véhicule...)&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-22" target="AuRGQpmqzgW3fRgOeS17-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-22" target="AuRGQpmqzgW3fRgOeS17-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-1" target="AuRGQpmqzgW3fRgOeS17-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="199" y="550" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-40" value="Comment obtenir toutes ces données ?" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=27;spacing=2;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-39">
+          <mxGeometry width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-42" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-39">
+          <mxGeometry x="164.75" y="10.97999999999999" width="25.25" height="48.03" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
