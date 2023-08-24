@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T22:40:35.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mS86ZMngDy9SB2lHMrU9" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-24T23:00:22.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3j2IBA9HVnaMiPDk-ZzN" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
     <mxGraphModel dx="3980" dy="2207" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
-    <mxGraphModel dx="636" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,7 +434,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AuRGQpmqzgW3fRgOeS17-32" value="Carte topographique à plusieurs couches&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- visuel naturel (vue aérienne)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- type de surface (plante, terre,&amp;nbsp;asphalte...)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- differents types de plantes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- differentes maladie de plante&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux d&#39;humidité ?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux de nitrate ?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux d&#39;azote ?&lt;/span&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=24;" vertex="1" parent="1">
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-32" value="Carte topographique à plusieurs couches&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- visuel naturel (vue aérienne)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- type de surface (plante, terre,&amp;nbsp;asphalte...)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- differents types de plantes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- differentes maladie de plante&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- taux d&#39;humidité ?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10px;&quot;&gt;- température ?&lt;/span&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=24;" vertex="1" parent="1">
           <mxGeometry x="30" y="390" width="224" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=62.94;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-33" target="AuRGQpmqzgW3fRgOeS17-40">
@@ -485,6 +485,12 @@
         <mxCell id="AuRGQpmqzgW3fRgOeS17-45" value="Reconnaissance d&#39;image / IA" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
           <mxGeometry x="270" y="650" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=52.94;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-46" target="AuRGQpmqzgW3fRgOeS17-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=52.94;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-46" target="AuRGQpmqzgW3fRgOeS17-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-46" value="Mesures aérienne" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
           <mxGeometry x="170" y="730" width="190" height="60" as="geometry" />
         </mxCell>
@@ -495,6 +501,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-40" target="AuRGQpmqzgW3fRgOeS17-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="840" width="176" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-67" value="Quels capteurs exteriocéptif utile à la fonction primaire ?" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=27;spacing=2;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-66">
+          <mxGeometry x="9.263157894736842" width="176" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-69" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-66">
+          <mxGeometry x="152.61052631578949" y="8.313428571428561" width="15.871428571428572" height="30.190285714285718" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="318" y="840" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-72" value="Quelles fonctionnalités cela implique ? Quel type de déplacement est préférable ?" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=27;spacing=2;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-71">
+          <mxGeometry width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-74" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="AuRGQpmqzgW3fRgOeS17-71">
+          <mxGeometry x="164.75" y="10.97999999999999" width="25.25" height="48.03" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-78" value="Planneur échelle RC&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- grande autonomie (large surface de survole)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- vol stable et contrôlable (propice à la prise de mesure)&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
+          <mxGeometry x="263" y="940" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-72" target="AuRGQpmqzgW3fRgOeS17-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-80" value="Caméra RGB&lt;br&gt;Caméra thermique" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
+          <mxGeometry x="83.39" y="940" width="127.74" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-67" target="AuRGQpmqzgW3fRgOeS17-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
