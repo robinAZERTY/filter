@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T17:12:24.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="V_JQbNogXXGqsxyDoO1h" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-25T17:18:01.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QqCUW7Lzw5YGKlaS61Im" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
     <mxGraphModel dx="2726" dy="1891" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
-    <mxGraphModel dx="596" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="360" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,7 +864,7 @@
         <mxCell id="AuRGQpmqzgW3fRgOeS17-333" value="" style="group;spacingRight=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1470.22" y="3146.5" width="110.98512396694218" height="40.88700000000017" as="geometry" />
         </mxCell>
-        <mxCell id="AuRGQpmqzgW3fRgOeS17-262" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Quel sont toutes les variables à estimer ?&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=18;spacing=2;container=0;" parent="AuRGQpmqzgW3fRgOeS17-333" vertex="1">
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-262" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Quelles sont toutes les variables à estimer ?&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=18;spacing=2;container=0;" parent="AuRGQpmqzgW3fRgOeS17-333" vertex="1">
           <mxGeometry width="110.98512396694215" height="40.887" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-263" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;container=0;" parent="AuRGQpmqzgW3fRgOeS17-333" vertex="1">
@@ -939,6 +939,9 @@
         </mxCell>
         <mxCell id="intKj0JjOQRoyqH9Z3BL-22" value="- état interne : Position(3D) + Orientation(Quaternion)&lt;br style=&quot;font-size: 3px;&quot;&gt;- forme de l&#39;environement (éviter les crash)" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=7;dy=3.67;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=3;fontStyle=1;spacingLeft=4;spacingRight=-3;" vertex="1" parent="1">
           <mxGeometry x="1482.43" y="3270" width="86.56" height="24.73" as="geometry" />
+        </mxCell>
+        <mxCell id="intKj0JjOQRoyqH9Z3BL-27" value="- Surfaces de contrôle aérodynamiques&lt;br&gt;- moteur éléctrique/élice de propulsion&amp;nbsp;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="3070" width="161.12" height="58.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
