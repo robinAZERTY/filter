@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T18:07:21.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="t55SxPy9sPcoVY17CbjI" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-25T18:09:13.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="glNxsyrTsd5GdPwdrFO9" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
     <mxGraphModel dx="2726" dy="1891" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
-    <mxGraphModel dx="1363" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="323" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,8 +751,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AuRGQpmqzgW3fRgOeS17-274" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;- Cameras stéréo&lt;br style=&quot;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; - GPS&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; - Centrale inertielle&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=5;fontStyle=1;spacingLeft=20;spacingRight=-3;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1279.04" y="3070" width="101.96" height="46.52" as="geometry" />
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-274" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;- Cameras stéréo (SLAM)&lt;br style=&quot;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;- GPS&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Centrale inertielle&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=5;fontStyle=1;spacingLeft=20;spacingRight=-3;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="3070" width="111" height="46.52" as="geometry" />
         </mxCell>
         <mxCell id="intKj0JjOQRoyqH9Z3BL-13" value="" style="group;fontSize=8;textOpacity=70;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1210" y="3141.997397260274" width="103.56158192090402" height="51.780821917808225" as="geometry" />
