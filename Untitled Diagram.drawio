@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T18:16:25.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-LG1w-Zejhbc_7md7S8J" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-25T18:21:32.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WbXIV9rS3lT01PJ9CkCE" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
     <mxGraphModel dx="2726" dy="1891" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
-    <mxGraphModel dx="242" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="707" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,10 +452,16 @@
           <mxGeometry x="160" y="10.980000000000018" width="25.25" height="48.03" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-120" value="Logiciel interface utilisateur&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 400; text-align: left;&quot;&gt;- zone de scan =&amp;gt; waypoints&lt;br&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" parent="1" vertex="1">
-          <mxGeometry x="670" y="3085.5" width="200" height="61" as="geometry" />
+          <mxGeometry x="550" y="3085.5" width="200" height="61" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;" parent="1" source="AuRGQpmqzgW3fRgOeS17-112" target="AuRGQpmqzgW3fRgOeS17-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="3037" />
+              <mxPoint x="710" y="3061" />
+              <mxPoint x="650" y="3061" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-181" value="conception du système embarqué (projet de robotique mobile)" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;size=0.5;spacingRight=0;strokeWidth=4;fontSize=43;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="2670" y="1910" width="50" height="1390" as="geometry" />
@@ -815,6 +821,12 @@
               <mxPoint x="1903" y="3060" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="intKj0JjOQRoyqH9Z3BL-44" value="Communication sans fil" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;" vertex="1" parent="1">
+          <mxGeometry x="770" y="3085.5" width="160" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="intKj0JjOQRoyqH9Z3BL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;" edge="1" parent="1" source="AuRGQpmqzgW3fRgOeS17-112" target="intKj0JjOQRoyqH9Z3BL-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
