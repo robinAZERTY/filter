@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T18:09:13.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="glNxsyrTsd5GdPwdrFO9" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-25T18:14:01.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="orUvuYMYUFZVfg5jHk8b" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
     <mxGraphModel dx="2726" dy="1891" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
-    <mxGraphModel dx="323" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -413,7 +413,7 @@
           <mxGeometry x="828.4497105263162" y="56.46857142857137" width="116.61191128581449" height="221.8166375864423" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-25" value="" style="group;spacingRight=500;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2041.64" y="1110" width="680" height="670" as="geometry" />
+          <mxGeometry x="2041.64" y="1110" width="768.3599999999999" height="670" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-26" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;comment synthétiser un suivi temporel de ces informations ?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=57;spacing=2;" parent="AuRGQpmqzgW3fRgOeS17-25" vertex="1">
           <mxGeometry x="34.56" width="488.56" height="180" as="geometry" />
@@ -615,8 +615,8 @@
         <mxCell id="AuRGQpmqzgW3fRgOeS17-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;strokeWidth=2;" parent="1" source="AuRGQpmqzgW3fRgOeS17-316" target="AuRGQpmqzgW3fRgOeS17-318" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuRGQpmqzgW3fRgOeS17-320" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Caméra RGB&lt;br&gt;Caméra thermique&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;container=0;" parent="1" vertex="1">
-          <mxGeometry x="429.2577665384614" y="2766.926442250907" width="188.59828384615386" height="88.58516831182" as="geometry" />
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-320" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Caméra RGB&lt;br&gt;Caméra thermique ?&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;container=0;" parent="1" vertex="1">
+          <mxGeometry x="418.19" y="2780.89" width="210.74" height="93.07" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;strokeWidth=2;" parent="1" source="AuRGQpmqzgW3fRgOeS17-313" target="AuRGQpmqzgW3fRgOeS17-320" edge="1">
           <mxGeometry relative="1" as="geometry" />
