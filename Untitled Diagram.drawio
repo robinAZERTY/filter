@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T08:44:17.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aHEiwb_OH__VEVZQxRL4" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-27T08:52:11.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TC-2_83MM0wR5zhjKQrC" version="21.6.9" type="github" pages="2">
   <diagram name="Page-1" id="WwMRkgozZL5AypPkiK_P">
     <mxGraphModel dx="954" dy="662" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-tiHB8Eov-c8opfqsPF" name="Page-2">
-    <mxGraphModel dx="636" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2726" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AuRGQpmqzgW3fRgOeS17-318" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Planneur échelle RC autopiloté&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- vol autonome&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- grande autonomie (large surface de survole)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- charge/volume embarquable suffisant pour les capteurs&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- vol stable et contrôlable (propice à la prise de mesure)&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;container=0;" parent="1" vertex="1">
+        <mxCell id="AuRGQpmqzgW3fRgOeS17-318" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Planneur motorisé échelle RC autopiloté&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- vol autonome&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- grande autonomie (large surface de survole)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- charge/volume embarquable suffisant pour les capteurs&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-weight: 400; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- vol stable et contrôlable (propice à la prise de mesure)&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=24.67;dy=7.06;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=10;fontStyle=1;spacingLeft=20;spacingRight=-3;container=0;" parent="1" vertex="1">
           <mxGeometry x="1042.0781153846156" y="2780.886442250907" width="453.26188461538464" height="118.1135577490933" as="geometry" />
         </mxCell>
         <mxCell id="AuRGQpmqzgW3fRgOeS17-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=7.06;entryPerimeter=0;strokeWidth=2;" parent="1" source="AuRGQpmqzgW3fRgOeS17-316" target="AuRGQpmqzgW3fRgOeS17-318" edge="1">
@@ -738,9 +738,10 @@
         <mxCell id="AuRGQpmqzgW3fRgOeS17-270" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;container=0;" parent="1" vertex="1">
           <mxGeometry x="1249.9" y="3154.5299999999997" width="20.1" height="38.23" as="geometry" />
         </mxCell>
-        <mxCell id="intKj0JjOQRoyqH9Z3BL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=39.46;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=0.5;" parent="1" source="AuRGQpmqzgW3fRgOeS17-274" target="AuRGQpmqzgW3fRgOeS17-278" edge="1">
+        <mxCell id="intKj0JjOQRoyqH9Z3BL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.317;exitY=0.835;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=0.5;" parent="1" source="AuRGQpmqzgW3fRgOeS17-274" target="AuRGQpmqzgW3fRgOeS17-278" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1305" y="3110" />
               <mxPoint x="1305" y="3110" />
               <mxPoint x="1305" y="3120" />
               <mxPoint x="1262" y="3120" />
